@@ -1,7 +1,7 @@
 tcweightedtree
 ==============
 
-Combination Weighted Tree Similarity Algorithm with Tanimoto Cosine For Semantic Search (Code Igniter)
+Combination Weighted Tree Similarity Algorithm with Tanimoto Cosine For Semantic Search (Codeigniter)
 program ini dibuat dalam rangka melaksanakan tugas akhir saya
 
 program ini berisi pengaplikasian kombinasi algoritma weighted tree similarity dengan tanimoto cosine untuk pencarian semantik
