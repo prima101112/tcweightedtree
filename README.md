@@ -11,4 +11,4 @@ program ini dibuat dengan codeigniter 2.1 dalam zip hanya ada model view dan con
 untuk frameworknya anda bisa download di elislab->codeigniter
 
 saya commit menggunakan svn.
-kalau yang ingin berkontribusi silahkan
+kalau yang ingin berkontribusi silahkan nyoba
