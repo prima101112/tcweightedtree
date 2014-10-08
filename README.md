@@ -12,4 +12,3 @@ untuk frameworknya anda bisa download di elislab->codeigniter
 
 saya commit menggunakan svn.
 kalau yang ingin berkontribusi silahkan nyoba
-lkmlkmlknmkm
